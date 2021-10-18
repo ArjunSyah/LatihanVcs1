@@ -23,5 +23,5 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 - git commit -m "menambahkan Project"
 ![Screenshot (21)](https://user-images.githubusercontent.com/92367765/137689430-97485945-3bbb-4279-bfa2-d089f0fa7d84.png)
 ## Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
-- git remote add origin 
+- git remote add origin https://github.com/ArjunSyah/LatihanVcs1.git
 
