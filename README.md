@@ -27,4 +27,6 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 ![Screenshot (22)](https://user-images.githubusercontent.com/92367765/137690964-a5592d17-10f7-4e2e-8bc7-82366c742233.png)
 ## Untuk mengirim perubahan pada repository local ke server, gunakan perintah git push, Perintah ini akan meminta Username dan Password pada akun github mu
 - git push -u origin master
-
+![Screenshot (23)](https://user-images.githubusercontent.com/92367765/137691313-92e933ea-3a6f-42f3-9ed7-3695b72ff348.png)
+-Selesai
+#TRIMAKASIH 
