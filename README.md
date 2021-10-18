@@ -13,6 +13,10 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 - git init
 ![Screenshot (18)](https://user-images.githubusercontent.com/92367765/137687267-d0e3d35c-9b2b-4097-95a7-9ade26646c03.png)
 ## Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan filenya pada repository. Sebagai contoh disini saya akan membuat file README.md dengan perintah berikut
-- echo "# Latihan1" >> README.md
+- echo "# belajargit" >> README.md
+![Screenshot (19)](https://user-images.githubusercontent.com/92367765/137687709-2c619cf4-aef1-47d4-a007-911c3600a1a2.png)
+## Untuk menambahkan file yang sudah kita buat, gunakan perintah git add (Nama File) atau bisa menggunakan git add . (Jika file nya ada banyak)
+- git add README.md
+- git add .
 
 
