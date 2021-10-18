@@ -20,7 +20,7 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 - git add .
 ![Screenshot (20)](https://user-images.githubusercontent.com/92367765/137688523-ad0903b9-a166-4e9e-9729-896678a405fa.png)
 ## Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "nama project" Dan yang ada di dalam tanda kutip " " itu adalah nama kommentar setiap kita mencommit project
-- git commit -m "First Project"
+- git commit -m "menambahkan Project"
 ![Screenshot (21)](https://user-images.githubusercontent.com/92367765/137689430-97485945-3bbb-4279-bfa2-d089f0fa7d84.png)
 
 
