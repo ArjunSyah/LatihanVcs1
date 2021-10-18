@@ -7,3 +7,4 @@ Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 > git config --global user.name "username"
 > git config --global user.email "email"
 
+
