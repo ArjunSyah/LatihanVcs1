@@ -23,7 +23,7 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 - git commit -m "menambahkan Project"
 ![Screenshot (21)](https://user-images.githubusercontent.com/92367765/137689430-97485945-3bbb-4279-bfa2-d089f0fa7d84.png)
 ## Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
-- git remote add origin https://github.com/ArjunSyah/LatihanVcs1.git
+- git remote add origin https://github.com/ArjunSyah/LatihanVCS.git
 ![Screenshot (22)](https://user-images.githubusercontent.com/92367765/137690964-a5592d17-10f7-4e2e-8bc7-82366c742233.png)
 ## Untuk mengirim perubahan pada repository local ke server, gunakan perintah git push, Perintah ini akan meminta Username dan Password pada akun github mu
 - git push -u origin master
