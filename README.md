@@ -9,4 +9,6 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 - git config --global user.name "username" 
 - git config --global user.email "email"
 ![Screenshot (17)](https://user-images.githubusercontent.com/92367765/137684106-a9f87253-d38e-4ad4-95ed-dbfef8516653.png)
+Jalankan perintah git init. untuk membuat repository local
+> git init
 
