@@ -22,5 +22,6 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 ## Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "nama project" Dan yang ada di dalam tanda kutip " " itu adalah nama kommentar setiap kita mencommit project
 - git commit -m "menambahkan Project"
 ![Screenshot (21)](https://user-images.githubusercontent.com/92367765/137689430-97485945-3bbb-4279-bfa2-d089f0fa7d84.png)
-
+## Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
+- git remote add origin 
 
