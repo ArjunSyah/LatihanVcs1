@@ -34,7 +34,7 @@
 ![Gambar16](ssgit/ss16.png.png)
 - setelah finish git sudah daapt diguanakn
 ## Cara Penggunaan Git
-### Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Dengan perintah berikut:
+### - Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Dengan perintah berikut:
 - > git config --global user.name "username"
 - > git config --global user.email "email" 
 ![Gambar4](ssgithub/ss4.png.png)
@@ -42,32 +42,33 @@
 - > cd /"directory"/"nama folder"/
 ![Gambar5](ssgithub/ss5.png.png)
 ### Nah setelah itu cara untuk mengaitkan/menambahkan repository, saya disini mengambil dari server dengan cara dan perintah berikkut:
-#### - Pertama masuk terlebih dahulu ke git hub
-#### - Kemudian salin link repositpry yang ingin anda kaitkan dengan komputer anda
-#### - disini saya membuat repository dengan nama "LatihanVcs1" kemudian saya salin urlnya
+### - Pertama masuk terlebih dahulu ke git hub
+### - Kemudian salin link repositpry yang ingin anda kaitkan dengan komputer anda
+### - disini saya membuat repository dengan nama "LatihanVcs1" kemudian saya salin urlnya
 ![Gambar6](ssgithub/ss6.png.png)
-### Setelah itu kita masuk lagi ke git bash(yang ada dikomputer), dengan memasukan perintah: 
+### - Setelah itu kita masuk lagi ke git bash(yang ada dikomputer), dengan memasukan perintah: 
 - > git clone "url repository yang ada di git hub"
 ![Gambar7](ssgithub/ss7.png.png)
-### Maka otomatis kita sudah membuat repository dikomputer local kita 
-### Kita akan mengecek apakah di repository sudah ada filenya, dengan memasukan perintah:
+### - Maka otomatis kita sudah membuat repository dikomputer local kita 
+### - Kita akan mengecek apakah di repository sudah ada filenya, dengan memasukan perintah:
 - >ls
 ![Gambar9](ssgithub/ss9.png.png)
-#### - Nah disini saya sudah mempunyai file dengan nama README.md
-### Saya akan membuat project dengan file ini
+### - Nah disini saya sudah mempunyai file dengan nama README.md
+### - Saya akan membuat project dengan file ini
 ![Gambar10](ssgithub/ss10.png.png)
-### Nah setelah project kita sudah selesai, kita kembali lagi ke git bash
-### disini kita cek terlebih dahulu ada perubahan apa saja yang terjadi. Misalnya ada file baru kah, ada file yang diubah ataupun yang di hapuskah, dengan memasukan printah:
+### - Nah setelah project kita sudah selesai, kita kembali lagi ke git bash
+### - disini kita cek terlebih dahulu ada perubahan apa saja yang terjadi. Misalnya ada file baru kah, ada file yang diubah ataupun yang di hapuskah, dengan memasukan printah:
 - > git status
 ![Gambar14](ssgithub/ss14.png.png) 
-### Nah disitu keterangannya bahwa file README.md masih berada distate modified atau di area working directory kita bisa lihat juga dengan warnanya yang berwarna merah
-### Selanjutnya kita akan memindahkan atau menambahkan file yang saya buat ke staging area dengan perintah :
+### - Nah disitu keterangannya bahwa file README.md masih berada distate modified atau di area working directory kita bisa lihat juga dengan warnanya yang berwarna merah
+### - Selanjutnya kita akan memindahkan atau menambahkan file yang saya buat ke staging area dengan perintah :
 - > git add "file yang ingin ditambhkan"
 ![Gambar11](ssgithub/ss11.png.png)
-### Nah setelah itu kita akan menyimpan perubahan dari staging area ke Repository local kita, dengan mecommit file dan harus disertai dengan komentar, dengan menggunakan perintah :
+### - Nah setelah itu kita akan menyimpan perubahan dari staging area ke Repository local kita, dengan mecommit file dan harus disertai dengan komentar, dengan menggunakan perintah :
 - > git commit -m "komentar apa saja"
 ![Gambar12](ssgithub/ss12.png.png)
-### Oke step by step sudah kita jalankan, kita lanjut ke step trakhir
-### di step trakhir ini kita akan mengirim prubahan pada repository local ke server, dengan menggunakan printah:
+### - Oke step by step sudah kita jalankan, kita lanjut ke step trakhir
+### - di step trakhir ini kita akan mengirim prubahan pada repository local ke server, dengan menggunakan printah:
 - > git push -u origin main
 ![Gambar13](ssgithub/ss13.png.png)
+# Selesai, Sekian dan Trimakasih
