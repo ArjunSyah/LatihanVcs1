@@ -17,7 +17,7 @@
 - Setelah selesai mengunduh file Git, silahkan install aplikasi nya, caranya seperti dibawah ini
 ![Gambar1](ssgit/ss1.png.png)
 - Lalu klik next terus seperti gambar dibawah, sampai ke menu install
-![Gambar2](ssgit/ss2.png.png)
+![Gambar2](ssgit/ss2.png.png) 
 ![Gambar3](ssgit/ss3.png.png)
 ![Gambar4](ssgit/ss4.png.png)
 ![Gambar5](ssgit/ss5.png.png)
@@ -36,4 +36,4 @@
 ## Cara Penggunaan Git
 ### Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut:
 - > git config --global user.name "username"
-- > git config --global user.email "email"
+- > git config --global user.email "email" 
