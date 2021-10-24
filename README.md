@@ -1,12 +1,22 @@
 # LatihanVCS
-# Tutorial instal,membuat akun,cara penggunaan git dan git hub
-## Cara install git di winddows
+# Tutorial Login Github, Membuat Repository Baru di Github, Instal Git, dan Cara Penggunaan Git 
+## Cara Login dan Membuat Repository Baru
+### 1. Pertama ke browser
+- masukan link url https://github.com
+### 2. Setelah masuk saatnya membuat akun, jika belum memiliki akun silahkan daftar terlebih dahulu, jika sudah tinggal masuk aja
+![Gambar1](ssgithub/ss1.png.png)
+### 3. Setelah berhasil login di github, saatnya anda membuat file repository baru, seperti gambar dibawah ini
+![Gambar2](ssgithub/ss2.png.png)
+### 4. Isikan repository name, dan pilih repository untuk jadi file public atau private, saya buat public disini, setelah itu centang pilihan add a readme file, lalu klik create repository
+![Gambar3](ssgithub/ss3.png.png)
+
+## Cara Install Git di Windows
 ### 1. Unduh Git
-untuk menginstall Git, anda perlu mengunduh file-nya terlebih dahulu di situs resminya. karena saya pakai git-scm, linknya adalah https://git-scm.com/
+- Untuk menginstall git, anda perlu mengunduh file-nya terlebih dahulu di situs resminya. karena saya pakai git-scm, linknya adalah https://git-scm.com/
 ### 2. Install Git
-- setelah selesai mengunduh file Git, silahkan install aplikasi nya, caranya seperti dibawah ini
+- Setelah selesai mengunduh file Git, silahkan install aplikasi nya, caranya seperti dibawah ini
 ![Gambar1](ssgit/ss1.png.png)
-- lalu klik next terus seperti gambar dibawah, sampai ke menu install
+- Lalu klik next terus seperti gambar dibawah, sampai ke menu install
 ![Gambar2](ssgit/ss2.png.png)
 ![Gambar3](ssgit/ss3.png.png)
 ![Gambar4](ssgit/ss4.png.png)
@@ -22,9 +32,8 @@ untuk menginstall Git, anda perlu mengunduh file-nya terlebih dahulu di situs re
 ![Gambar14](ssgit/ss14.png.png)
 ![Gambar15](ssgit/ss15.png.png)
 ![Gambar16](ssgit/ss16.png.png)
-### 3. setelah proses instalasi selesai, saatnya membuat akun, jika belum memiliki akun silahkan daftar terlebih dahulu, jika sudah tinggal masuk aja
-![Gambar1](ssgithub/ss1.png.png)
-### 4. setelah berhasil login di github, saatnya anda membuat file repository baru, seperti gambar dibawah ini
-![Gambar2](ssgithub/ss2.png.png)
-### 5. isikan repository name, dan pilih repository untuk jadi file public atau private, saya buat public disini, setelah itu centang pilihan add a readme file, lalu klik create repository
-![Gambar3](ssgithub/ss3.png.png)
+- setelah finish git sudah daapt diguanakn
+## Cara Penggunaan Git
+### Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut:
+- > git config --global user.name "username"
+- > git config --global user.email "email"
