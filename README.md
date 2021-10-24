@@ -4,6 +4,6 @@
 untuk menginstall Git, anda perlu mengunduh file-nya terlebih dahulu di situs resminya. karena saya pakai git-scm, linknya adalah https://git-scm.com/
 ### 2. Install Git
 setelah selesai mengunduh file Git, silahkan install aplikasi nya, caranya seperti dibawah ini
-![Gambar1](ss1.png.png)
+![Gambar1](ss1.png)
 lalu klik next terus seperti gambar dibawah, sampai ke menu install
-![Gambar2](ss2.png.png)
+![Gambar2](ss2.png)
